@@ -1,4 +1,5 @@
-# Título do Projeto Extremamente Aesthetic ;)
+A Inteligência Artificial e o Futuro da Criação de Jogos: Um Olhar para os Próximos 10 Anos
+
 
 ## 📒 Descrição
 Games no futuro com IA, desafios e possibilidades
