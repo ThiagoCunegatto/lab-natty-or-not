@@ -1,16 +1,18 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Games no futuro com IA, desafios e possibilidades
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gemini
+Meta.AI
+Microsoft Word
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criação de conteúdo e imagens com GEMINI e META.AI
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+e-book anexo
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Maiores desafios são o dominio sobre as técnicas de prompt na hora de desfinir textos e imagens
